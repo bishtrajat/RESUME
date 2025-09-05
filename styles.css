@@ -44,6 +44,9 @@ table {
   border-collapse: collapse;
   width: 80%;
   border: 2px solid rgba(0, 98, 255, 0.533);
-     
+}
+p {
+  margin-top: 0%;
+  margin-bottom: 0%;
 }
 
